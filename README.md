@@ -14,5 +14,5 @@
 - **[Another Project](link-to-project):** Brief description.
 
 ## Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/lee-sungwon/)
+- [Medium Blog](https://medium.com/@pumadd1227)
