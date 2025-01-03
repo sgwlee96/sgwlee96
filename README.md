@@ -1,5 +1,13 @@
 # 🧑‍🎓 README
 
+ ,---.                                                    ,--.                    ,-.  ,---.                  ,--.  ,--.        ,-.   
+'   .-' ,--.,--.,--,--,  ,---. ,--.   ,--. ,---. ,--,--,  |  |    ,---.  ,---.   / .' /  O  \ ,--.,--. ,---.,-'  '-.`--',--,--, '. \  
+`.  `-. |  ||  ||      \| .-. ||  |.'.|  || .-. ||      \ |  |   | .-. :| .-. : |  | |  .-.  ||  ||  |(  .-''-.  .-',--.|      \ |  | 
+.-'    |'  ''  '|  ||  |' '-' '|   .'.   |' '-' '|  ||  | |  '--.\   --.\   --. |  | |  | |  |'  ''  '.-'  `) |  |  |  ||  ||  | |  | 
+`-----'  `----' `--''--'.`-  / '--'   '--' `---' `--''--' `-----' `----' `----'  \ '.`--' `--' `----' `----'  `--'  `--'`--''--'.' /  
+                        `---'                                                     `-'                                           `-'   
+Data Scientist | Data Analyst | Machine Learning Engineer
+
 ## About Me
 🎓 Junior Data Scientist currently in the final semester of the Data Science Master’s program at San José State University (SJSU), graduating in May 2025.  
 💻 Passionate about machine learning, data analysis, and AI-powered solutions.
