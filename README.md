@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Sungwon Lee (Austin) 👋
 
-<!--
-**sgwlee96/sgwlee96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Junior Data Scientist currently in the final semester of the Data Science Master’s program at San José State University (SJSU), graduating in May 2025.  
+💻 Passionate about machine learning, data analysis, and AI-powered solutions.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** Python, R, SQL
+- **Tools & Technologies:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+- **Interests:** Machine Learning, Computer Vision, NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Project Name](link-to-project):** Brief description.
+- **[Another Project](link-to-project):** Brief description.
+
+## Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Portfolio](https://your-portfolio.com)
