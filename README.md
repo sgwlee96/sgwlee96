@@ -1,4 +1,4 @@
-# 🧑‍🎓 ReadME of Sungwon Lee (Austin)
+# 🧑‍🎓 README
 ----------------------------------------------
 ## About Me
 🎓 Junior Data Scientist currently in the final semester of the Data Science Master’s program at San José State University (SJSU), graduating in May 2025.  
