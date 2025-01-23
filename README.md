@@ -11,9 +11,9 @@ data-driven solutions while contributing to team success and enhancing overall p
 - **Interests:** Machine Learning, Computer Vision, Transformer
 
 ## Projects
-- **Obstacle Detection and Labeling for UAV (Ongoing Project)
-- **Facial Expression Recognition Analysis
-- **Leveraging Sentiment Analysis for Enhanced Stock Price Prediction using PySpark
+- **Obstacle Detection and Labeling for UAV** (Ongoing Project)
+- **Facial Expression Recognition Analysis**
+- **Leveraging Sentiment Analysis for Enhanced Stock Price Prediction using PySpark**
 
 ## Social Media Links
 - [LinkedIn](https://www.linkedin.com/in/lee-sungwon/)
