@@ -1,8 +1,11 @@
 # 🧑‍🎓ReadMe
 ![Sungwon lee austin](https://github.com/user-attachments/assets/c0b446ea-0bba-4942-a5a4-a612fcf5dd38)
 ## About Me
-🎓 Junior Data Scientist currently in the final semester of the Data Science Master’s program at San José State University (SJSU), graduating in May 2025.  
-💻 Passionate about machine learning, data analysis, and AI-powered solutions.
+🎓 Results-oriented Data Scientist specializing in AI and machine learning. I hold a Bachelor’s in Statistical Data Science from UC Davis
+and am currently pursuing a Master’s in Data Analysis at San Jose State University, expected to graduate in May 2025. I successfully
+integrated sentiment analysis with traditional indicators to improve stock price prediction accuracy by 6.36% for NVIDIA in a major
+project, showcasing my ability to analyze large datasets and derive actionable insights. I am eager to leverage my expertise to drive
+data-driven solutions while contributing to team success and enhancing overall performance.
 
 ## Skills
 - **Programming Languages:** Python, R, MySQL, Tableau, MS Office
