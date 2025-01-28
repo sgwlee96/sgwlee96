@@ -2,7 +2,7 @@
 ![Sungwon lee austin](https://github.com/user-attachments/assets/c0b446ea-0bba-4942-a5a4-a612fcf5dd38)
 
 ## Resume
-
+[Resume Link](https://github.com/sgwlee96/Resume.git)
 
 ## About Me
 🎓 Results-oriented Data Scientist specializing in AI and machine learning. I hold a Bachelor’s in Statistical Data Science from UC Davis
