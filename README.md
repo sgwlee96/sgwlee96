@@ -4,19 +4,6 @@
 ## Resume
 [Resume Link](https://github.com/sgwlee96/Resume.git)
 
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en" style="width:100%; height:100%;">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>kekayan's Resume</title>
-</head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= https://github.com/sgwlee96/Resume.git &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-</html>
-
-
 ## About Me
 🎓 Results-oriented Data Scientist specializing in AI and machine learning. I hold a Bachelor’s in Statistical Data Science from UC Davis
 and am currently pursuing a Master’s in Data Analysis at San Jose State University, expected to graduate in May 2025. On the current project, I am trying to embed ViT-YOLO architecture with different architectures such as Transformer detection head to implement on UAV object. I am eager to leverage my expertise to drive
