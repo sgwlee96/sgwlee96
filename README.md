@@ -16,7 +16,7 @@ data-driven solutions while contributing to team success and enhancing overall p
 
 ## Projects
 - **Obstacle Detection and Labeling for UAV** (Ongoing Project)
-- **Facial Expression Recognition Analysis**
+- **[Facial Expression Recognition Analysis](https://github.com/sgwlee96/Face_Expression_Recognition.git)**
 - **Leveraging Sentiment Analysis for Enhanced Stock Price Prediction using PySpark**
 
 ## Social Media Links
