@@ -23,4 +23,4 @@ data-driven solutions while contributing to team success and enhancing overall p
 - [LinkedIn](https://www.linkedin.com/in/lee-sungwon/)
 - [Medium Blog](https://medium.com/@pumadd1227)
 
-🎵 [Music Recommandation](https://music.youtube.com/playlist?list=PLsY-dE-WaMEqYXYpQqe-MOBeYKaMERIQ-&si=oh2ZxzYDlg7yfhNU)
+
