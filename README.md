@@ -64,6 +64,15 @@ data-driven solutions while contributing to team success and enhancing overall p
 - **Obstacle Detection and Labeling for UAV** (Ongoing Project)
 - **[Facial Expression Recognition Analysis](https://github.com/sgwlee96/Face_Expression_Recognition.git)**
 - **Leveraging Sentiment Analysis for Enhanced Stock Price Prediction using PySpark**
+- **Brain Tumor Detection**
+- **Road Sign Detection**
+- **Toxic Comment Classification using NLP**
+- **PDF RAG LLM with Langchain**
+- **Eedi - Mining Misconceptions in Mathematics**
+- **Divorce and Marriage instability analysis**
+- **LA Crime Rate Visualization and Analysis**
+- **RAIR Shopping App. for Database**
+- **Heart Disease Prediction Research Using Machine Learning**
 
 ## Social Media Links
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-sungwon/)
