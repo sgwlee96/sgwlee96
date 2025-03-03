@@ -4,12 +4,10 @@
 ## Resume
 [Resume Link](https://github.com/sgwlee96/Resume/blob/main/SungwonLee_Resume.pdf)
 
-## About Me
-🎓 Results-oriented Data Scientist specializing in AI and machine learning. I hold a Bachelor’s in Statistical Data Science from UC Davis
-and am currently pursuing a Master’s in Data Analysis at San Jose State University, expected to graduate in May 2025. On the current project, I am trying to embed ViT-YOLO architecture with different architectures such as Transformer detection head to implement on UAV object. I am eager to leverage my expertise to drive
-data-driven solutions while contributing to team success and enhancing overall performance.
+## 🎓 About Me
+Hi, I’m Sungwon Lee, a Master’s candidate in Applied Data Science at San Jose State University with a robust background in Statistical Data Science from UC Davis. With nearly six years of experience in data analysis, machine learning, and statistics, I’ve developed a strong proficiency in Python, SQL, Big Data, and advanced machine learning frameworks. I’ve had the opportunity to work with state-of-the-art technologies such as GANs, large language models, Transformers, and various computer vision architectures like Vision Transformer, YOLO, and DeTR. Currently, I’m developing an innovative obstacle detection and labeling project for drones, where I’m experimenting with a hybrid approach that combines YOLO, Vision Transformer, and RT-DETR architectures to enhance performance. I’m also actively expanding my skills in cloud technologies, with plans to obtain an AWS Machine Learning certification soon. Welcome to my GitHub – here you’ll find my projects, experiments, and a continuous journey of learning and innovation.
 
-## Skills
+## 🛠️ Skills
 ### Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -60,7 +58,7 @@ data-driven solutions while contributing to team success and enhancing overall p
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-## Projects
+## 🚀 Projects
 - **[Obstacle Detection and Labeling for UAV (Ongoing Project)](https://github.com/sjsu2024-data298-team6)**
 - **[Facial Expression Recognition Analysis](https://github.com/sgwlee96/Face_Expression_Recognition.git)**
 - **Leveraging Sentiment Analysis for Enhanced Stock Price Prediction using PySpark**
