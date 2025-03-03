@@ -31,6 +31,6 @@ data-driven solutions while contributing to team success and enhancing overall p
 
 ## Social Media Links
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-sungwon/)
-- [Medium Blog](https://medium.com/@pumadd1227)
+- [![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pumadd1227)
 
 
