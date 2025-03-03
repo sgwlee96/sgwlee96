@@ -60,10 +60,6 @@ data-driven solutions while contributing to team success and enhancing overall p
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-- **Programming Languages:** Python, R, MySQL, Tableau, MS Office
-- **Tools & Technologies:** TensorFlow, PyTorch, PySpark, Scikit-learn, Pandas, NumPy
-- **Interests:** Machine Learning, Computer Vision, Transformer
-
 ## Projects
 - **Obstacle Detection and Labeling for UAV** (Ongoing Project)
 - **[Facial Expression Recognition Analysis](https://github.com/sgwlee96/Face_Expression_Recognition.git)**
